@@ -14,7 +14,7 @@ import com.springboot.repository.SubjectRepository;
  * 
  * @author Jeet Khatri
  * @date 15-Oct-2018
- * @link https://github.com/JeetKhatri/SpringBoot.git
+ * @link https://github.com/JeetKhatri/SpringBoot-with-mysql-db.git
  *
  */
 
